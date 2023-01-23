@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "701978128941",
+    "project_id": "forum-hub-becae",
+    "storage_bucket": "forum-hub-becae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701978128941:android:5a16f8f1fa6ff9a1c7fea4",
+        "android_client_info": {
+          "package_name": "com.example.forum_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701978128941-0dhl1hmhgo5fth8j6a8rmtdbhsseflko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forum_hub",
+            "certificate_hash": "625e331740a7fe6b1e3308359f61c1e4bfa35b16"
+          }
+        },
+        {
+          "client_id": "701978128941-3rh21cgkbkibbu4mg5pchld4oc8q5oes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECHg6SOTBqsha6SfRW0tbsV9wNRTUIMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701978128941-3rh21cgkbkibbu4mg5pchld4oc8q5oes.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701978128941-d841u586mtrnoerkkt65k54udk1f14ka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701978128941:android:1baf3fa8f13b749cc7fea4",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701978128941-3rh21cgkbkibbu4mg5pchld4oc8q5oes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECHg6SOTBqsha6SfRW0tbsV9wNRTUIMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701978128941-3rh21cgkbkibbu4mg5pchld4oc8q5oes.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701978128941-d841u586mtrnoerkkt65k54udk1f14ka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redditTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
